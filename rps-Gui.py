@@ -43,6 +43,7 @@ def main():
     gui = rpsGui(window)
     window.mainloop()
 
-main()
+if __name__ = "__main__":
+    main()
         
         
