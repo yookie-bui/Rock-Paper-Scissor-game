@@ -1,2 +1,2 @@
-# Rock-Paper-Scissor-game
-OOP Rock Paper Scissor game with Python GUI with Tkinter
+# Rock-Paper-Scissor-GUI
+Rock Paper Scissor game with Tkinter
